@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://swistek92.github.io/csb-zo501g/static/js/main.6c82fbb0.chunk.js",
+    "main.js.map": "https://swistek92.github.io/csb-zo501g/static/js/main.6c82fbb0.chunk.js.map",
+    "runtime-main.js": "https://swistek92.github.io/csb-zo501g/static/js/runtime-main.c69ba999.js",
+    "runtime-main.js.map": "https://swistek92.github.io/csb-zo501g/static/js/runtime-main.c69ba999.js.map",
+    "static/js/2.29de253a.chunk.js": "https://swistek92.github.io/csb-zo501g/static/js/2.29de253a.chunk.js",
+    "static/js/2.29de253a.chunk.js.map": "https://swistek92.github.io/csb-zo501g/static/js/2.29de253a.chunk.js.map",
+    "index.html": "https://swistek92.github.io/csb-zo501g/index.html",
+    "static/js/2.29de253a.chunk.js.LICENSE.txt": "https://swistek92.github.io/csb-zo501g/static/js/2.29de253a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69ba999.js",
+    "static/js/2.29de253a.chunk.js",
+    "static/js/main.6c82fbb0.chunk.js"
+  ]
+}
